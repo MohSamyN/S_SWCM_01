@@ -13,4 +13,10 @@ int main()
 int add (int a, int b)
 {
 	return a+b;
+
+//feature 2 
+int mult (int a,int b)
+{
+	return a*b;
+
 }
